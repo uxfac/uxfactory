@@ -1,1 +1,9 @@
 Hello git!
+
+#include <studio.h>
+
+int main(void)
+{
+
+
+}
