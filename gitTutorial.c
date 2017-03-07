@@ -4,7 +4,7 @@ int main(void)
 {
 	printf("Hello Uxfactory");
 	printf("Hello HyeonWoo");
-	prinft("Hello Kaist");
+	prinft("Hello World");
 
 	for(int i=10; i<1; i--)
 	{
