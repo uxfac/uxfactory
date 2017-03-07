@@ -1,0 +1,8 @@
+Hello git!
+
+#include <studio.h>
+
+int main(void)
+{
+	printf("good~\n");
+}
